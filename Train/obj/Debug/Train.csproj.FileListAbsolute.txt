@@ -1,0 +1,7 @@
+C:\Users\monik\OneDrive\Dokumenty\VSB rekvalifikacni kurz\CSharp\Priklady\CSharp_OOP_zk\CSharp_OOP_zk\Train\bin\Debug\Train.exe.config
+C:\Users\monik\OneDrive\Dokumenty\VSB rekvalifikacni kurz\CSharp\Priklady\CSharp_OOP_zk\CSharp_OOP_zk\Train\bin\Debug\Train.exe
+C:\Users\monik\OneDrive\Dokumenty\VSB rekvalifikacni kurz\CSharp\Priklady\CSharp_OOP_zk\CSharp_OOP_zk\Train\bin\Debug\Train.pdb
+C:\Users\monik\OneDrive\Dokumenty\VSB rekvalifikacni kurz\CSharp\Priklady\CSharp_OOP_zk\CSharp_OOP_zk\Train\obj\Debug\Train.csprojAssemblyReference.cache
+C:\Users\monik\OneDrive\Dokumenty\VSB rekvalifikacni kurz\CSharp\Priklady\CSharp_OOP_zk\CSharp_OOP_zk\Train\obj\Debug\Train.csproj.CoreCompileInputs.cache
+C:\Users\monik\OneDrive\Dokumenty\VSB rekvalifikacni kurz\CSharp\Priklady\CSharp_OOP_zk\CSharp_OOP_zk\Train\obj\Debug\Train.exe
+C:\Users\monik\OneDrive\Dokumenty\VSB rekvalifikacni kurz\CSharp\Priklady\CSharp_OOP_zk\CSharp_OOP_zk\Train\obj\Debug\Train.pdb
